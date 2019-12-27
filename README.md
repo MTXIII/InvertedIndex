@@ -1,3 +1,3 @@
 # InvertedIndex
-Simple inveted index program with tkingter GUI using tkinter.
+Simple inverted index with GUI using tkinter.
 
